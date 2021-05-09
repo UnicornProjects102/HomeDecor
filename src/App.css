@@ -8,8 +8,7 @@
 
 .grid {
   margin-top: 4rem;
-  padding-top: 2rem;
-  height: 6rem;
+  padding-top: 0rem;
   position: fixed;
   z-index: 5;
   background-color: #fafafa;

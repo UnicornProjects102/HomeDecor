@@ -4,7 +4,7 @@ const styles = theme => ({
     },
     banner: {
         maxWidth: "100vw",
-        marginTop: "12rem",
+        marginTop: "10rem",
         marginBottom: "2rem",
         justifyContent: "center",
         justifyItems: "center",
